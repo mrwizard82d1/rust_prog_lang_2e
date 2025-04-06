@@ -6,6 +6,8 @@ fn main() {
     println!("Please input your guess.");
 
     let mut guess = String::new();
+    let apples = 5;
+    println!("Some tasty apples: {apples}");
 
     io::stdin()
         .read_line(&mut guess)
