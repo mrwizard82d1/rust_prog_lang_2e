@@ -14,9 +14,9 @@ fn main() {
 
     println!();
 
-    let mut spaces = "    ";
+    let spaces = "    ";
     println!("Tough to see `spaces` without angle brackets: <{spaces}>.");
 
-    spaces = spaces.len();
+    let spaces = spaces.len();
     println!("But `spaces.len()` returns a u32 (I think): {spaces}.");
 }
