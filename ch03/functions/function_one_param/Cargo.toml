@@ -1,5 +1,5 @@
 [package]
-name = "function_params"
+name = "function_one_param"
 version = "0.1.0"
 edition = "2024"
 
