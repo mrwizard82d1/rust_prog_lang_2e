@@ -1,5 +1,5 @@
 [package]
-name = "if-in-a-let"
+name = "if_in_a_let"
 version = "0.1.0"
 edition = "2024"
 
