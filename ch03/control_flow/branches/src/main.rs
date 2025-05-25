@@ -1,7 +1,7 @@
 fn main() {
     let number = 3;
 
-    if number {
-        println!("Number is three");
+    if number != 0{
+        println!("Number is not zero");
     }
 }
