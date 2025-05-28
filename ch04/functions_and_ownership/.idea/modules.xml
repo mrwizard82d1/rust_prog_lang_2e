@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/annotated_scopes.iml" filepath="$PROJECT_DIR$/.idea/annotated_scopes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/functions_and_ownership.iml" filepath="$PROJECT_DIR$/.idea/functions_and_ownership.iml" />
     </modules>
   </component>
 </project>
