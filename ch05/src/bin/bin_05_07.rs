@@ -9,7 +9,6 @@ fn main() {
     };
     
     let user2 = User {
-        username: String::from("another_user123"),
         email: String::from("another@example.com"),
         ..user1
     };
@@ -17,6 +16,6 @@ fn main() {
     // Because `username` and `email` are of type `String`, the expressions, 
     // `username: user1.username` and `email: user1.email` involve a **move**
     // and not a copy.
-    println!("user1 = {:?}", user1);
+    // println!("user1 = {:?}", user1);
     println!("user2 = {:?}", user2);
 }
